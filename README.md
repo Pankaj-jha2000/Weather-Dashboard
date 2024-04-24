@@ -62,3 +62,8 @@ OpenWeatherMap API
 **Contributing**
 
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
+
+
+
+
+![image](https://github.com/Pankaj-jha2000/Weather-Dashboard/assets/62105964/65da6f6f-14a0-4f6e-9651-a5c443384bb7)
